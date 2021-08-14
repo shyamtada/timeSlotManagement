@@ -1,0 +1,50 @@
+.p-10{
+    padding: 10px;
+}
+
+.save-button{
+    width: 100%;
+    background: #1bc373;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.cancel-button{
+    width: 100%;
+    background: #FDFBEF;
+    color: #1bc373;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #1bc373;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+.feedback {
+    color: red;
+    font-size: 14px;
+    padding: 0px 10px;
+}
+
+.m-auto{
+    margin: auto !important;
+}
+
+.input-container-div{
+    padding: 10%;
+    background-color: #FDFBEF;
+    width:70%;
+    margin: auto;
+    margin-top: 5%;
+    -webkit-box-shadow: 3px 3px 8px 0px #ccc;
+    -moz-box-shadow:    3px 3px 8px 0px #ccc;
+    box-shadow: 3px 3px 8px 0px #ccc;
+    border-radius: 10px;
+}
